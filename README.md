@@ -68,18 +68,18 @@ rates80211n.dat: This file contains the distribution of IEEE 802.11n frames
     second.
 * statistics.dat: This file is a dump of the statistics kept by RAC. The
     statistics kept are:
-        - Number of captured frames
-        - Estimated lost frames
-        - Captured retransmits
-        - Loss ratio
-        - Total number of rate changes
-        - How many rate changes which change more than one rate step
-        - Maximum rate changes per second
-        - Minimum time between rate changes
-        - Minimum number of frames between rate changes
-        - Total number of samples
-        - Sampling ratio
-        - Minimum number of frames between samples
-        - Number of RTS frames
-        - Number of CTS frames
-        - Maximum number of retransmissions for a single frame
+        * Number of captured frames
+        * Estimated lost frames
+        * Captured retransmits
+        * Loss ratio
+        * Total number of rate changes
+        * How many rate changes which change more than one rate step
+        * Maximum rate changes per second
+        * Minimum time between rate changes
+        * Minimum number of frames between rate changes
+        * Total number of samples
+        * Sampling ratio
+        * Minimum number of frames between samples
+        * Number of RTS frames
+        * Number of CTS frames
+        * Maximum number of retransmissions for a single frame
